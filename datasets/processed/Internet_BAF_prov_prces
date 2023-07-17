@@ -1,0 +1,841 @@
+Año,Trimestre,Provincia,Banda ancha fija
+2022,3,buenos aires,4715469
+2022,3,capital federal,1545534
+2022,3,catamarca,70292
+2022,3,chaco,144141
+2022,3,chubut,164874
+2022,3,cordoba,1038600
+2022,3,corrientes,144842
+2022,3,entre rios,268937
+2022,3,formosa,68537
+2022,3,jujuy,118823
+2022,3,la pampa,115921
+2022,3,la rioja,86860
+2022,3,mendoza,288746
+2022,3,misiones,182157
+2022,3,neuquen,162693
+2022,3,rio negro,160010
+2022,3,salta,204536
+2022,3,san juan,103118
+2022,3,san luis,121888
+2022,3,santa cruz,49312
+2022,3,santa fe,887700
+2022,3,santiago del estero,119030
+2022,3,tierra del fuego,53584
+2022,3,tucuman,263087
+2022,2,buenos aires,4660984
+2022,2,capital federal,1534626
+2022,2,catamarca,67007
+2022,2,chaco,143559
+2022,2,chubut,161901
+2022,2,cordoba,1026367
+2022,2,corrientes,144993
+2022,2,entre rios,269330
+2022,2,formosa,67881
+2022,2,jujuy,115314
+2022,2,la pampa,111356
+2022,2,la rioja,86026
+2022,2,mendoza,278785
+2022,2,misiones,178813
+2022,2,neuquen,161500
+2022,2,rio negro,159216
+2022,2,salta,203172
+2022,2,san juan,100126
+2022,2,san luis,121559
+2022,2,santa cruz,48987
+2022,2,santa fe,878749
+2022,2,santiago del estero,118042
+2022,2,tierra del fuego,53458
+2022,2,tucuman,254497
+2022,1,buenos aires,4549131
+2022,1,capital federal,1415378
+2022,1,catamarca,62377
+2022,1,chaco,144114
+2022,1,chubut,170701
+2022,1,cordoba,1003729
+2022,1,corrientes,142574
+2022,1,entre rios,267904
+2022,1,formosa,54548
+2022,1,jujuy,116509
+2022,1,la pampa,109560
+2022,1,la rioja,84299
+2022,1,mendoza,274399
+2022,1,misiones,171508
+2022,1,neuquen,149208
+2022,1,rio negro,156821
+2022,1,salta,197510
+2022,1,san juan,87888
+2022,1,san luis,119659
+2022,1,santa cruz,48898
+2022,1,santa fe,870364
+2022,1,santiago del estero,116459
+2022,1,tierra del fuego,52298
+2022,1,tucuman,245554
+2021,4,buenos aires,4502772
+2021,4,capital federal,1409935
+2021,4,catamarca,59089
+2021,4,chaco,143740
+2021,4,chubut,159364
+2021,4,cordoba,986693
+2021,4,corrientes,135908
+2021,4,entre rios,265024
+2021,4,formosa,53663
+2021,4,jujuy,113915
+2021,4,la pampa,106834
+2021,4,la rioja,83124
+2021,4,mendoza,266783
+2021,4,misiones,171132
+2021,4,neuquen,146989
+2021,4,rio negro,153189
+2021,4,salta,199399
+2021,4,san juan,79667
+2021,4,san luis,118662
+2021,4,santa cruz,48276
+2021,4,santa fe,866265
+2021,4,santiago del estero,115859
+2021,4,tierra del fuego,52042
+2021,4,tucuman,238609
+2021,3,buenos aires,4246425
+2021,3,capital federal,1411797
+2021,3,catamarca,56253
+2021,3,chaco,139868
+2021,3,chubut,155266
+2021,3,cordoba,946726
+2021,3,corrientes,133816
+2021,3,entre rios,260360
+2021,3,formosa,52795
+2021,3,jujuy,111158
+2021,3,la pampa,100371
+2021,3,la rioja,82157
+2021,3,mendoza,255320
+2021,3,misiones,158528
+2021,3,neuquen,139436
+2021,3,rio negro,144084
+2021,3,salta,195831
+2021,3,san juan,79227
+2021,3,san luis,117716
+2021,3,santa cruz,48779
+2021,3,santa fe,841433
+2021,3,santiago del estero,115457
+2021,3,tierra del fuego,49934
+2021,3,tucuman,232447
+2021,2,buenos aires,4127167
+2021,2,capital federal,1398747
+2021,2,catamarca,55743
+2021,2,chaco,140726
+2021,2,chubut,138412
+2021,2,cordoba,930818
+2021,2,corrientes,129498
+2021,2,entre rios,257617
+2021,2,formosa,51551
+2021,2,jujuy,111848
+2021,2,la pampa,97551
+2021,2,la rioja,81599
+2021,2,mendoza,229052
+2021,2,misiones,156176
+2021,2,neuquen,137877
+2021,2,rio negro,143583
+2021,2,salta,191637
+2021,2,san juan,78677
+2021,2,san luis,122670
+2021,2,santa cruz,48785
+2021,2,santa fe,840449
+2021,2,santiago del estero,114089
+2021,2,tierra del fuego,35404
+2021,2,tucuman,233026
+2021,1,buenos aires,4054936
+2021,1,capital federal,1378283
+2021,1,catamarca,51967
+2021,1,chaco,139767
+2021,1,chubut,131515
+2021,1,cordoba,910826
+2021,1,corrientes,126622
+2021,1,entre rios,251950
+2021,1,formosa,50686
+2021,1,jujuy,110456
+2021,1,la pampa,96989
+2021,1,la rioja,52625
+2021,1,mendoza,218308
+2021,1,misiones,149387
+2021,1,neuquen,132862
+2021,1,rio negro,140667
+2021,1,salta,187572
+2021,1,san juan,78011
+2021,1,san luis,119006
+2021,1,santa cruz,45868
+2021,1,santa fe,825990
+2021,1,santiago del estero,111640
+2021,1,tierra del fuego,40133
+2021,1,tucuman,231890
+2020,4,buenos aires,4028195
+2020,4,capital federal,1378140
+2020,4,catamarca,52395
+2020,4,chaco,139088
+2020,4,chubut,129749
+2020,4,cordoba,902646
+2020,4,corrientes,125656
+2020,4,entre rios,247368
+2020,4,formosa,50206
+2020,4,jujuy,105851
+2020,4,la pampa,96779
+2020,4,la rioja,52775
+2020,4,mendoza,214838
+2020,4,misiones,147161
+2020,4,neuquen,132762
+2020,4,rio negro,140709
+2020,4,salta,187388
+2020,4,san juan,72340
+2020,4,san luis,119287
+2020,4,santa cruz,40477
+2020,4,santa fe,820676
+2020,4,santiago del estero,106668
+2020,4,tierra del fuego,39325
+2020,4,tucuman,231067
+2020,3,buenos aires,3932211
+2020,3,capital federal,1371285
+2020,3,catamarca,49903
+2020,3,chaco,133951
+2020,3,chubut,129202
+2020,3,cordoba,867417
+2020,3,corrientes,123388
+2020,3,entre rios,241482
+2020,3,formosa,49209
+2020,3,jujuy,106728
+2020,3,la pampa,93619
+2020,3,la rioja,52613
+2020,3,mendoza,207173
+2020,3,misiones,143186
+2020,3,neuquen,128862
+2020,3,rio negro,130966
+2020,3,salta,180844
+2020,3,san juan,77071
+2020,3,san luis,116417
+2020,3,santa cruz,39084
+2020,3,santa fe,802861
+2020,3,santiago del estero,105491
+2020,3,tierra del fuego,39366
+2020,3,tucuman,223854
+2020,2,buenos aires,3772480
+2020,2,capital federal,1356431
+2020,2,catamarca,47975
+2020,2,chaco,128129
+2020,2,chubut,107831
+2020,2,cordoba,836413
+2020,2,corrientes,118863
+2020,2,entre rios,234100
+2020,2,formosa,47932
+2020,2,jujuy,94316
+2020,2,la pampa,89693
+2020,2,la rioja,52152
+2020,2,mendoza,200569
+2020,2,misiones,140340
+2020,2,neuquen,125799
+2020,2,rio negro,128985
+2020,2,salta,177760
+2020,2,san juan,69521
+2020,2,san luis,113804
+2020,2,santa cruz,38672
+2020,2,santa fe,777795
+2020,2,santiago del estero,105446
+2020,2,tierra del fuego,38900
+2020,2,tucuman,217134
+2020,1,buenos aires,3702985
+2020,1,capital federal,1352104
+2020,1,catamarca,39634
+2020,1,chaco,120274
+2020,1,chubut,95938
+2020,1,cordoba,811044
+2020,1,corrientes,113967
+2020,1,entre rios,231833
+2020,1,formosa,46434
+2020,1,jujuy,91665
+2020,1,la pampa,89110
+2020,1,la rioja,48337
+2020,1,mendoza,182837
+2020,1,misiones,133552
+2020,1,neuquen,121354
+2020,1,rio negro,125699
+2020,1,salta,170379
+2020,1,san juan,63975
+2020,1,san luis,110404
+2020,1,santa cruz,38625
+2020,1,santa fe,770981
+2020,1,santiago del estero,102754
+2020,1,tierra del fuego,38505
+2020,1,tucuman,200045
+2019,4,buenos aires,3681120
+2019,4,capital federal,1356695
+2019,4,catamarca,38310
+2019,4,chaco,117900
+2019,4,chubut,95292
+2019,4,cordoba,806633
+2019,4,corrientes,113831
+2019,4,entre rios,239017
+2019,4,formosa,46711
+2019,4,jujuy,88881
+2019,4,la pampa,90280
+2019,4,la rioja,48999
+2019,4,mendoza,185157
+2019,4,misiones,135813
+2019,4,neuquen,116069
+2019,4,rio negro,126636
+2019,4,salta,172443
+2019,4,san juan,64715
+2019,4,san luis,108053
+2019,4,santa cruz,39170
+2019,4,santa fe,769019
+2019,4,santiago del estero,103587
+2019,4,tierra del fuego,40101
+2019,4,tucuman,198621
+2019,3,buenos aires,3950114
+2019,3,capital federal,1437734
+2019,3,catamarca,32391
+2019,3,chaco,114438
+2019,3,chubut,87481
+2019,3,cordoba,782946
+2019,3,corrientes,112749
+2019,3,entre rios,238057
+2019,3,formosa,46066
+2019,3,jujuy,86575
+2019,3,la pampa,90559
+2019,3,la rioja,49659
+2019,3,mendoza,223015
+2019,3,misiones,133883
+2019,3,neuquen,123435
+2019,3,rio negro,143391
+2019,3,salta,151834
+2019,3,san juan,72535
+2019,3,san luis,122409
+2019,3,santa cruz,37642
+2019,3,santa fe,760706
+2019,3,santiago del estero,133130
+2019,3,tierra del fuego,48043
+2019,3,tucuman,164099
+2019,2,buenos aires,3845594
+2019,2,capital federal,1412177
+2019,2,catamarca,33626
+2019,2,chaco,108721
+2019,2,chubut,86038
+2019,2,cordoba,775023
+2019,2,corrientes,111539
+2019,2,entre rios,235780
+2019,2,formosa,46438
+2019,2,jujuy,86706
+2019,2,la pampa,89937
+2019,2,la rioja,50283
+2019,2,mendoza,222535
+2019,2,misiones,132878
+2019,2,neuquen,120954
+2019,2,rio negro,137632
+2019,2,salta,142567
+2019,2,san juan,69461
+2019,2,san luis,117094
+2019,2,santa cruz,30225
+2019,2,santa fe,743258
+2019,2,santiago del estero,126752
+2019,2,tierra del fuego,46910
+2019,2,tucuman,166299
+2019,1,buenos aires,3736563
+2019,1,capital federal,1396157
+2019,1,catamarca,33613
+2019,1,chaco,103664
+2019,1,chubut,78260
+2019,1,cordoba,744010
+2019,1,corrientes,102477
+2019,1,entre rios,232403
+2019,1,formosa,45211
+2019,1,jujuy,90146
+2019,1,la pampa,88892
+2019,1,la rioja,51638
+2019,1,mendoza,204976
+2019,1,misiones,122720
+2019,1,neuquen,112321
+2019,1,rio negro,120173
+2019,1,salta,136019
+2019,1,san juan,61881
+2019,1,san luis,96044
+2019,1,santa cruz,24580
+2019,1,santa fe,736851
+2019,1,santiago del estero,89851
+2019,1,tierra del fuego,45903
+2019,1,tucuman,171970
+2018,4,buenos aires,3626502
+2018,4,capital federal,1385577
+2018,4,catamarca,33574
+2018,4,chaco,103257
+2018,4,chubut,77204
+2018,4,cordoba,737234
+2018,4,corrientes,100591
+2018,4,entre rios,222003
+2018,4,formosa,45204
+2018,4,jujuy,90132
+2018,4,la pampa,85368
+2018,4,la rioja,51633
+2018,4,mendoza,204982
+2018,4,misiones,116273
+2018,4,neuquen,112309
+2018,4,rio negro,115922
+2018,4,salta,134577
+2018,4,san juan,61834
+2018,4,san luis,96040
+2018,4,santa cruz,24443
+2018,4,santa fe,720161
+2018,4,santiago del estero,89333
+2018,4,tierra del fuego,45716
+2018,4,tucuman,171972
+2018,3,buenos aires,3599714
+2018,3,capital federal,1385804
+2018,3,catamarca,34215
+2018,3,chaco,102021
+2018,3,chubut,101310
+2018,3,cordoba,725764
+2018,3,corrientes,99445
+2018,3,entre rios,204560
+2018,3,formosa,44865
+2018,3,jujuy,44934
+2018,3,la pampa,83180
+2018,3,la rioja,51855
+2018,3,mendoza,205545
+2018,3,misiones,108042
+2018,3,neuquen,114713
+2018,3,rio negro,112433
+2018,3,salta,132882
+2018,3,san juan,63823
+2018,3,san luis,74121
+2018,3,santa cruz,33565
+2018,3,santa fe,694883
+2018,3,santiago del estero,86358
+2018,3,tierra del fuego,45056
+2018,3,tucuman,171135
+2018,2,buenos aires,3490134
+2018,2,capital federal,1362498
+2018,2,catamarca,34078
+2018,2,chaco,98509
+2018,2,chubut,98137
+2018,2,cordoba,712979
+2018,2,corrientes,97946
+2018,2,entre rios,199937
+2018,2,formosa,44554
+2018,2,jujuy,45132
+2018,2,la pampa,82177
+2018,2,la rioja,51931
+2018,2,mendoza,199468
+2018,2,misiones,106147
+2018,2,neuquen,113842
+2018,2,rio negro,111176
+2018,2,salta,134166
+2018,2,san juan,63443
+2018,2,san luis,21168
+2018,2,santa cruz,33970
+2018,2,santa fe,684243
+2018,2,santiago del estero,83773
+2018,2,tierra del fuego,44199
+2018,2,tucuman,169926
+2018,1,buenos aires,3464882
+2018,1,capital federal,1359882
+2018,1,catamarca,33934
+2018,1,chaco,96925
+2018,1,chubut,95532
+2018,1,cordoba,713825
+2018,1,corrientes,94406
+2018,1,entre rios,197346
+2018,1,formosa,32328
+2018,1,jujuy,44405
+2018,1,la pampa,82668
+2018,1,la rioja,52228
+2018,1,mendoza,199463
+2018,1,misiones,103580
+2018,1,neuquen,115897
+2018,1,rio negro,110057
+2018,1,salta,133182
+2018,1,san juan,62610
+2018,1,san luis,21096
+2018,1,santa cruz,33970
+2018,1,santa fe,679717
+2018,1,santiago del estero,82916
+2018,1,tierra del fuego,31106
+2018,1,tucuman,168026
+2017,4,buenos aires,3171206
+2017,4,capital federal,1575418
+2017,4,catamarca,29548
+2017,4,chaco,96603
+2017,4,chubut,91012
+2017,4,cordoba,709874
+2017,4,corrientes,93760
+2017,4,entre rios,193654
+2017,4,formosa,32056
+2017,4,jujuy,43551
+2017,4,la pampa,81675
+2017,4,la rioja,52177
+2017,4,mendoza,178661
+2017,4,misiones,103895
+2017,4,neuquen,114965
+2017,4,rio negro,108702
+2017,4,salta,132811
+2017,4,san juan,57965
+2017,4,san luis,14604
+2017,4,santa cruz,29018
+2017,4,santa fe,672137
+2017,4,santiago del estero,68842
+2017,4,tierra del fuego,28346
+2017,4,tucuman,162298
+2017,3,buenos aires,3046758
+2017,3,capital federal,1563289
+2017,3,catamarca,33467
+2017,3,chaco,93747
+2017,3,chubut,81067
+2017,3,cordoba,696536
+2017,3,corrientes,92536
+2017,3,entre rios,185414
+2017,3,formosa,32105
+2017,3,jujuy,43241
+2017,3,la pampa,79280
+2017,3,la rioja,51896
+2017,3,mendoza,190958
+2017,3,misiones,100476
+2017,3,neuquen,113755
+2017,3,rio negro,106393
+2017,3,salta,132517
+2017,3,san juan,61789
+2017,3,san luis,21408
+2017,3,santa cruz,33222
+2017,3,santa fe,662086
+2017,3,santiago del estero,82792
+2017,3,tierra del fuego,30883
+2017,3,tucuman,160979
+2017,2,buenos aires,3067430
+2017,2,capital federal,1592175
+2017,2,catamarca,26692
+2017,2,chaco,90597
+2017,2,chubut,62245
+2017,2,cordoba,657505
+2017,2,corrientes,90085
+2017,2,entre rios,182675
+2017,2,formosa,29956
+2017,2,jujuy,42656
+2017,2,la pampa,72573
+2017,2,la rioja,16271
+2017,2,mendoza,169302
+2017,2,misiones,99794
+2017,2,neuquen,115321
+2017,2,rio negro,100621
+2017,2,salta,108540
+2017,2,san juan,51261
+2017,2,san luis,12992
+2017,2,santa cruz,26019
+2017,2,santa fe,566918
+2017,2,santiago del estero,33194
+2017,2,tierra del fuego,31938
+2017,2,tucuman,154374
+2017,1,buenos aires,3178174
+2017,1,capital federal,1391030
+2017,1,catamarca,26304
+2017,1,chaco,89036
+2017,1,chubut,62166
+2017,1,cordoba,641066
+2017,1,corrientes,88596
+2017,1,entre rios,180296
+2017,1,formosa,29705
+2017,1,jujuy,43202
+2017,1,la pampa,71458
+2017,1,la rioja,16207
+2017,1,mendoza,169282
+2017,1,misiones,97619
+2017,1,neuquen,113227
+2017,1,rio negro,100288
+2017,1,salta,107632
+2017,1,san juan,51253
+2017,1,san luis,12992
+2017,1,santa cruz,26116
+2017,1,santa fe,562520
+2017,1,santiago del estero,34473
+2017,1,tierra del fuego,31938
+2017,1,tucuman,152734
+2016,4,buenos aires,3131499
+2016,4,capital federal,1393443
+2016,4,catamarca,27021
+2016,4,chaco,88833
+2016,4,chubut,62035
+2016,4,cordoba,636422
+2016,4,corrientes,88084
+2016,4,entre rios,180188
+2016,4,formosa,29513
+2016,4,jujuy,42624
+2016,4,la pampa,71368
+2016,4,la rioja,16298
+2016,4,mendoza,169274
+2016,4,misiones,97390
+2016,4,neuquen,111723
+2016,4,rio negro,100020
+2016,4,salta,106934
+2016,4,san juan,51301
+2016,4,san luis,12992
+2016,4,santa cruz,26094
+2016,4,santa fe,561470
+2016,4,santiago del estero,35049
+2016,4,tierra del fuego,31938
+2016,4,tucuman,151615
+2016,3,buenos aires,3075387
+2016,3,capital federal,1395053
+2016,3,catamarca,26957
+2016,3,chaco,89216
+2016,3,chubut,62222
+2016,3,cordoba,642458
+2016,3,corrientes,88328
+2016,3,entre rios,181092
+2016,3,formosa,27716
+2016,3,jujuy,42537
+2016,3,la pampa,69903
+2016,3,la rioja,16912
+2016,3,mendoza,169174
+2016,3,misiones,97997
+2016,3,neuquen,110491
+2016,3,rio negro,100024
+2016,3,salta,107790
+2016,3,san juan,51348
+2016,3,san luis,12978
+2016,3,santa cruz,25886
+2016,3,santa fe,566625
+2016,3,santiago del estero,35658
+2016,3,tierra del fuego,31306
+2016,3,tucuman,151282
+2016,2,buenos aires,3032776
+2016,2,capital federal,1384824
+2016,2,catamarca,26543
+2016,2,chaco,88235
+2016,2,chubut,62116
+2016,2,cordoba,634680
+2016,2,corrientes,86932
+2016,2,entre rios,178194
+2016,2,formosa,28801
+2016,2,jujuy,41187
+2016,2,la pampa,68403
+2016,2,la rioja,16718
+2016,2,mendoza,169274
+2016,2,misiones,95808
+2016,2,neuquen,108224
+2016,2,rio negro,99631
+2016,2,salta,104929
+2016,2,san juan,51392
+2016,2,san luis,12939
+2016,2,santa cruz,25797
+2016,2,santa fe,563867
+2016,2,santiago del estero,36958
+2016,2,tierra del fuego,30740
+2016,2,tucuman,148636
+2016,1,buenos aires,2929903
+2016,1,capital federal,1328079
+2016,1,catamarca,26376
+2016,1,chaco,86635
+2016,1,chubut,62060
+2016,1,cordoba,609692
+2016,1,corrientes,85510
+2016,1,entre rios,174634
+2016,1,formosa,28313
+2016,1,jujuy,40287
+2016,1,la pampa,65442
+2016,1,la rioja,16673
+2016,1,mendoza,169257
+2016,1,misiones,92951
+2016,1,neuquen,101969
+2016,1,rio negro,98745
+2016,1,salta,102423
+2016,1,san juan,51373
+2016,1,san luis,12915
+2016,1,santa cruz,25931
+2016,1,santa fe,551378
+2016,1,santiago del estero,37695
+2016,1,tierra del fuego,29867
+2016,1,tucuman,146596
+2015,4,buenos aires,2946743
+2015,4,capital federal,1360381
+2015,4,catamarca,26459
+2015,4,chaco,86537
+2015,4,chubut,62279
+2015,4,cordoba,625835
+2015,4,corrientes,85409
+2015,4,entre rios,173957
+2015,4,formosa,28088
+2015,4,jujuy,39922
+2015,4,la pampa,66054
+2015,4,la rioja,16914
+2015,4,mendoza,169251
+2015,4,misiones,92846
+2015,4,neuquen,105122
+2015,4,rio negro,98655
+2015,4,salta,101917
+2015,4,san juan,51408
+2015,4,san luis,12901
+2015,4,santa cruz,26047
+2015,4,santa fe,561045
+2015,4,santiago del estero,39132
+2015,4,tierra del fuego,29334
+2015,4,tucuman,146053
+2015,3,buenos aires,2916070
+2015,3,capital federal,1362193
+2015,3,catamarca,26080
+2015,3,chaco,85354
+2015,3,chubut,62143
+2015,3,cordoba,622761
+2015,3,corrientes,84931
+2015,3,entre rios,172252
+2015,3,formosa,27751
+2015,3,jujuy,39548
+2015,3,la pampa,64976
+2015,3,la rioja,16753
+2015,3,mendoza,169261
+2015,3,misiones,91615
+2015,3,neuquen,98376
+2015,3,rio negro,98529
+2015,3,salta,100570
+2015,3,san juan,51409
+2015,3,san luis,12902
+2015,3,santa cruz,25912
+2015,3,santa fe,556097
+2015,3,santiago del estero,39394
+2015,3,tierra del fuego,33118
+2015,3,tucuman,144272
+2015,2,buenos aires,2871079
+2015,2,capital federal,1336391
+2015,2,catamarca,25666
+2015,2,chaco,83832
+2015,2,chubut,61745
+2015,2,cordoba,609510
+2015,2,corrientes,83288
+2015,2,entre rios,169309
+2015,2,formosa,27013
+2015,2,jujuy,37720
+2015,2,la pampa,63552
+2015,2,la rioja,16491
+2015,2,mendoza,169259
+2015,2,misiones,88512
+2015,2,neuquen,95644
+2015,2,rio negro,97640
+2015,2,salta,98264
+2015,2,san juan,51367
+2015,2,san luis,12904
+2015,2,santa cruz,25384
+2015,2,santa fe,545739
+2015,2,santiago del estero,39375
+2015,2,tierra del fuego,32960
+2015,2,tucuman,140635
+2015,1,buenos aires,2847076
+2015,1,capital federal,1321139
+2015,1,catamarca,25312
+2015,1,chaco,81329
+2015,1,chubut,63327
+2015,1,cordoba,596663
+2015,1,corrientes,81488
+2015,1,entre rios,165839
+2015,1,formosa,26657
+2015,1,jujuy,36608
+2015,1,la pampa,62155
+2015,1,la rioja,16310
+2015,1,mendoza,168355
+2015,1,misiones,85139
+2015,1,neuquen,93373
+2015,1,rio negro,96145
+2015,1,salta,96793
+2015,1,san juan,51117
+2015,1,san luis,12878
+2015,1,santa cruz,26217
+2015,1,santa fe,535640
+2015,1,santiago del estero,39244
+2015,1,tierra del fuego,32726
+2015,1,tucuman,138184
+2014,4,buenos aires,2801178
+2014,4,capital federal,1318526
+2014,4,catamarca,25472
+2014,4,chaco,65998
+2014,4,chubut,66557
+2014,4,cordoba,590113
+2014,4,corrientes,65656
+2014,4,entre rios,140567
+2014,4,formosa,26156
+2014,4,jujuy,35999
+2014,4,la pampa,56813
+2014,4,la rioja,16379
+2014,4,mendoza,167766
+2014,4,misiones,77222
+2014,4,neuquen,92999
+2014,4,rio negro,95050
+2014,4,salta,93921
+2014,4,san juan,51390
+2014,4,san luis,12788
+2014,4,santa cruz,25277
+2014,4,santa fe,528459
+2014,4,santiago del estero,39308
+2014,4,tierra del fuego,28249
+2014,4,tucuman,137329
+2014,3,buenos aires,2835537
+2014,3,capital federal,1307195
+2014,3,catamarca,24665
+2014,3,chaco,63710
+2014,3,chubut,67130
+2014,3,cordoba,585231
+2014,3,corrientes,63516
+2014,3,entre rios,136618
+2014,3,formosa,25873
+2014,3,jujuy,33739
+2014,3,la pampa,61861
+2014,3,la rioja,15893
+2014,3,mendoza,166184
+2014,3,misiones,75327
+2014,3,neuquen,100099
+2014,3,rio negro,96629
+2014,3,salta,92929
+2014,3,san juan,51031
+2014,3,san luis,12683
+2014,3,santa cruz,25664
+2014,3,santa fe,520196
+2014,3,santiago del estero,37539
+2014,3,tierra del fuego,28037
+2014,3,tucuman,131978
+2014,2,buenos aires,2750430
+2014,2,capital federal,1299502
+2014,2,catamarca,24660
+2014,2,chaco,63243
+2014,2,chubut,68503
+2014,2,cordoba,576747
+2014,2,corrientes,62925
+2014,2,entre rios,135468
+2014,2,formosa,25535
+2014,2,jujuy,34359
+2014,2,la pampa,55048
+2014,2,la rioja,15889
+2014,2,mendoza,165046
+2014,2,misiones,74689
+2014,2,neuquen,90053
+2014,2,rio negro,94812
+2014,2,salta,91949
+2014,2,san juan,50891
+2014,2,san luis,12691
+2014,2,santa cruz,26710
+2014,2,santa fe,511753
+2014,2,santiago del estero,38002
+2014,2,tierra del fuego,27443
+2014,2,tucuman,131981
+2014,1,buenos aires,2725732
+2014,1,capital federal,1289204
+2014,1,catamarca,24209
+2014,1,chaco,62520
+2014,1,chubut,68205
+2014,1,cordoba,566705
+2014,1,corrientes,62203
+2014,1,entre rios,134216
+2014,1,formosa,25335
+2014,1,jujuy,33825
+2014,1,la pampa,53601
+2014,1,la rioja,15688
+2014,1,mendoza,164084
+2014,1,misiones,73950
+2014,1,neuquen,88077
+2014,1,rio negro,93909
+2014,1,salta,91265
+2014,1,san juan,50543
+2014,1,san luis,12193
+2014,1,santa cruz,26304
+2014,1,santa fe,506000
+2014,1,santiago del estero,37124
+2014,1,tierra del fuego,27272
+2014,1,tucuman,129944
