@@ -29,7 +29,7 @@ Datasets como numeros de accesos en ambos, cantidad de tecnologias hábiles en e
 ### **Conclusiones**
 
 Podemos apreciar que las tecnologías más habilitadas dentro de sector de telecomunicaciones en Argentina son aquellas que se manejan por el sector móvil, en este caso el 4G y el 3G, las tecnologías Wireless le siguen pero ya se trata de algo mas general ya los mismo celulares se pueden considerar como tecnología Wireless, está presente en ambos sectores móvil y fijo(cablemodems, routers).
-![Descripción de la imagen](src\tecnologias1.png)
+![Descripción de la imagen](src/tecnologias1.png)
 
 
 
