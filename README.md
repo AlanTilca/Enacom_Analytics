@@ -32,13 +32,28 @@ Podemos apreciar que las tecnologías más habilitadas dentro de sector de telec
 ![Descripción de la imagen](src/tecnologias1.png)
 
 Cabría mencionar que la fibra óptica parecer ser la más predominante en el sector de cableado, por lo tanto un aumento en este sector no solo es previsto sino recomendable. En este ejemplo vemos mas de cerca las técnologias en Buenos Aires, por tener la concentración de estas mas alta.
+
 ![Descripción de la imagen](src/tecnologias2.png)
+
 **KPI**: Aumentar el porcentaje de fibra óptica un 2% para el año entrante. Para tener estar a la par con Wireless.
 
 Al ser el sector móvil el mas predominante, hay que tener en cuenta que empresas son las más preferidas por los habitantes, para considerar una futura alianza con una o varias de estas buscando ofrecer los servicios de Internet que la empresa proporciona.
 
 Para tener una idea de que empresas serían estas miramos la portabilidad numérica a lo largo de los años con sus altas y bajas por empresa.
+
 ![Descripción de la imagen](src/portabilidad.png)
+
 Algunas de estas se benefician de la perdidad de números de otras.
 Dos en particular Claro y Personal, quienes hasta el día de hoy se ven al alza, indicando una clara preferencia por el servicio de estas empresas.
 Mientras que otras como Movistar no paran de perder números.
+
+Y por último damos un vistazo a la evolución de los ingresos a lo largo de los años. Teniendo la Telefonía móvil una gran distancia en comparación con los ingresos del Internet Fijo.
+
+![Descripción de la imagen](src/ingresos.png)
+
+**KPI**: Analizamos el crecimiento porcentual a lo largo de los años y ponemos como estimado de crecimiento por año la media estos. 
+
+![Descripción de la imagen](src/crecimiento.png)
+
+Media de crecimiento por año Internet Fijo: 35%
+Media de crecimiento por año Telefonía Móvil: 24%
