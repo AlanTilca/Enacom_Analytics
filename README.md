@@ -6,6 +6,18 @@ Análisis del sector de las telecomunicaciones, centrándose específicamente en
 
 El objetivo principal es examinar y comprender el estado actual del sector de las telecomunicaciones, identificando las tecnologías emergentes, las tendencias y los desafíos que enfrenta la industria. Además, se busca analizar el impacto de estas tecnologías en el acceso a Internet y la telefonía móvil.
 
+## Herramientas
+
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010)]()
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-239120?style=for-the-badge&logoColor=white&labelColor=101010)]()
+[![Seaborn](https://img.shields.io/badge/Seaborn-239120?style=for-the-badge&logoColor=white&labelColor=101010)]()
+</br>
+[![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white&labelColor=101010)]()
+
+
+
+
 ## Roadmap del Proyecto
 
 ### **Recopilación de datos** 
@@ -57,3 +69,13 @@ Y por último damos un vistazo a la evolución de los ingresos a lo largo de los
 
 Media de crecimiento por año Internet Fijo: 35%
 Media de crecimiento por año Telefonía Móvil: 24%
+
+
+
+
+## Contacto:
+
+[![Email](https://img.shields.io/badge/alantilca@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:alantilca@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/Alan_Tilca-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alantilca/)
+
